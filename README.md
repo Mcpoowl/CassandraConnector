@@ -65,6 +65,9 @@ Not filling in these constants with the correct values will cause the Connector 
 
 This module was intended to show you how to easily connect to a Cassandra instance and get results quickly. Cassandra is capable of much more than currently possible with this module. If you need an extension to the module, or something not currently supported, feel free to contact us!
 
-Clicking the preview button in the Mendix appstore brings you to our Sandbox environment, where you can test the Cassandra Connector. Supported query is: ```SQL SELECT * FROM recipes;```
+Clicking the preview button in the Mendix appstore brings you to our Sandbox environment, where you can test the Cassandra Connector. Supported query is: 
+```SQL
+ SELECT * FROM recipes;
+```
 
 
