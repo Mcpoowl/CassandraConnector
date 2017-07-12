@@ -27,7 +27,7 @@ Not filling in these constants with the correct values will cause the Connector 
 
 * Cassandra supports a multitude of datatypes, not all known to Mendix, therefore, the library does a mapping of Cassandra datatypes to known Mendix/Java datatypes:
 
-| Cassandra Datatype    | Mendix Datatype    |
+| Cassandra Datatype    | Java Datatype      |
 |:---------------------:|:------------------:|
 | ASCII                 | String      	     |
 | BIGINT                | Long    	         |
@@ -43,7 +43,7 @@ Not filling in these constants with the correct values will cause the Connector 
 | TIMESTAMP             | Date               |  
 | UUID     		        | String             |
 | VARCHAR  		        | String             |  
-| VARINT     	        | BigInteger         |  
+| VARINT     	        | String             |  
 | TIMEUUID     	 	    | String             |  
 | LIST	                | NOT SUPPORTED    	 |
 | SET   	            | NOT SUPPORTED      |
@@ -51,8 +51,8 @@ Not filling in these constants with the correct values will cause the Connector 
 | CUSTOM     	        | NOT SUPPORTED      |
 | UDT     	            | NOT SUPPORTED      |
 | TUPLE      	        | NOT SUPPORTED      | 
-| SMALLINT    	        | Integer            |
-| TINYINT       	    | Integer            |
+| SMALLINT    	        | String             |
+| TINYINT       	    | String             |
 | DATE  	            | String             |
 | TIME  	            | Long               |
 
