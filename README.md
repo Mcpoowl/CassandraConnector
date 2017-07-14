@@ -35,15 +35,15 @@ Not filling in these constants with the correct values will cause the Connector 
 | BOOLEAN               | Boolean      	     |
 | COUNTER               | NOT SUPPORTED  	 |
 | DECIMAL               | BigDecimal   	     | 
-| DOUBLE                | Double             |  
-| FLOAT                 | Float              |
+| DOUBLE                | BigDecimal         |  
+| FLOAT                 | BigDecimal         |
 | INET                  | String             |  
 | INT                   | Integer            |  
 | TEXT                  | String             |  
 | TIMESTAMP             | Date               |  
 | UUID     		        | String             |
 | VARCHAR  		        | String             |  
-| VARINT     	        | String             |  
+| VARINT     	        | BigDecimal         |  
 | TIMEUUID     	 	    | String             |  
 | LIST	                | NOT SUPPORTED    	 |
 | SET   	            | NOT SUPPORTED      |
