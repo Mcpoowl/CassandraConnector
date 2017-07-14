@@ -51,8 +51,8 @@ Not filling in these constants with the correct values will cause the Connector 
 | CUSTOM     	        | NOT SUPPORTED      |
 | UDT     	            | NOT SUPPORTED      |
 | TUPLE      	        | NOT SUPPORTED      | 
-| SMALLINT    	        | String             |
-| TINYINT       	    | String             |
+| SMALLINT    	        | Integer            |
+| TINYINT       	    | Integer            |
 | DATE  	            | String             |
 | TIME  	            | Long               |
 
