@@ -1,9 +1,0 @@
-Buildfile: D:\NoBackup\Github\CassandraConnector\deployment\build_core.xml
-
-clean:
-
-BUILD SUCCESSFUL
-Total time: 0 seconds
-
-
-
