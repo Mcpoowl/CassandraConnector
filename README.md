@@ -1,5 +1,20 @@
 # CassandraConnector
-Mendix Cassandra Connector
+
+The Mendix Cassandra Connector
+
+
+
+## What is Cassandra
+Manage massive amounts of data, fast, without losing sleep.
+The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.Cassandra's support for replicating across multiple datacenters is best-in-class, providing lower latency for your users and the peace of mind of knowing that you can survive regional outages.
+
+### PROVEN
+
+Cassandra is in use at Constant Contact, CERN, Comcast, eBay, GitHub, GoDaddy, Hulu, Instagram, Intuit, Netflix, Reddit, The Weather Channel, and over 1500 more companies that have large, active data sets.
+
+### SCALABLE
+
+Some of the largest production deployments include Apple's, with over 75,000 nodes storing over 10 PB of data, Netflix (2,500 nodes, 420 TB, over 1 trillion requests per day), Chinese search engine Easou (270 nodes, 300 TB, over 800 million requests per day), and eBay (over 100 nodes, 250 TB).
 
 # Typical Usage Scenario 
 Have loads of data in your Cassandra environment and you want to use this data in Mendix? Use the Cassandra Connector
@@ -7,8 +22,6 @@ Have loads of data in your Cassandra environment and you want to use this data i
 
 # Dependencies
 * Mendix 7.0.2 and up
-
-
 
 
 # Installation
