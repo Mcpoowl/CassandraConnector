@@ -80,7 +80,7 @@ Currently we only support reading from a Cassandra database. In the future we wi
 
 This module was intended to show you how to easily connect to a Cassandra instance and get results quickly. Cassandra is capable of much more than currently possible with this module. 
 
-Clicking the preview button in the [Mendix Appstore](http://appstore.home.mendix.com) brings you to our Sandbox environment, where you can test the Cassandra Connector. Supported query is: 
+Clicking the preview button in the [Mendix Appstore](https://appstore.home.mendix.com/link/app/66289/TimeSeries/Cassandra-Connector) brings you to our Sandbox environment, where you can test the Cassandra Connector. Supported query is: 
 ```SQL
  SELECT * FROM recipes;
 ```
